@@ -50,3 +50,18 @@ Source: Conversation with Copilot, 7/19/2024
 (5) Cannot log in to Visual Studio Account in VS 2022. https://stackoverflow.com/questions/77264367/cannot-log-in-to-visual-studio-account-in-vs-2022.
 (6) Unit tests target earlier .NET Framework version - Visual Studio .... https://learn.microsoft.com/en-us/visualstudio/test/how-to-configure-unit-tests-to-target-an-earlier-version-of-the-dotnet-framework?view=vs-2022.
 (7) Getting started: .NET Core with command line > xUnit.net. https://xunit.net/docs/getting-started/netcore/cmdline.
+
+### When trying to run an xUnit test and using a .NET 8 class library project that contains my public test class and its public method with the [FACT] attribute, I checked the output of the Live Unit Test and get the following:
+
+========== Test discovery aborted: 0 Tests found in 10 ms ==========
+========== Starting test run ==========
+========== Test run aborted: 0 Tests (0 Passed, 0 Failed, 0 Skipped) run in < 1 ms ==========
+
+Why would the xUnit.runner.visualstudio version 2.8.2, xUnit version 2.9.0, xunit.runner.console version 2.9..0, and xunit version 2.9.0 issue this error? Is it because a class library project is being used to host the xUnit tests? I am following this [udemy course](https://www.udemy.com/course/unit-testing-net-core-2x-applications-with-xunit-net) that is using the class library to host unit tests.
+
+Found this answer on udemy that resolved the issue of not finding my xUnit test:
+Rushikesh
+Answer
+2 upvotes
+2 months ago
+[Install Microsoft.NET.Test.Sdk Nuget Package it will solve the problem, Happy Coding :](https://www.udemy.com/course/unit-testing-net-core-2x-applications-with-xunit-net/learn/lecture/11221428#questions/12710770)
