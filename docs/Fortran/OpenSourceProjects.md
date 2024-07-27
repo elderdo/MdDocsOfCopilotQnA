@@ -1,0 +1,96 @@
+### Are there any Open source project for Fortran 2003 or Open source utilities or Frameworks for GUI's or advanced Mathematics?
+
+Yes, there are several open-source projects, utilities, and frameworks for Fortran 2003. Here are some of them:
+
+**Open Source Projects for Fortran 2003:**
+
+- OpenBLAS¹
+- LAPACK¹
+- ElmerFEM¹
+- WRF¹
+- fds¹
+- Quantum ESPRESSO¹
+- fluidity¹
+- json-fortran¹
+- Nek5000¹
+- cp2k¹
+- fortran2018-examples¹
+- NASTRAN-95¹
+- specfem3d¹
+- NWChem¹
+- gtk-fortran¹
+- CFL3D¹
+- fortran-utils¹
+- SHTOOLS¹
+- OpenCoarrays¹
+- arpack-ng¹
+- DFTB+¹
+- NASTRAN-93¹
+- MPAS¹
+- neural-fortran¹
+- NetCDF-Fortran¹
+- CTSM¹
+- Castro¹
+- ABINIT¹
+- FLAP¹
+- bspline-fortran¹
+- FOODIE¹
+- forpy¹
+- OFF¹
+- WAVEWATCH III¹
+- MOM6¹
+- VTKFortran¹
+- datetime-fortran¹
+- node-fortran¹
+- Fortran-Astrodynamics-Toolkit¹
+- pyplot-fortran¹
+- Starlink¹
+- WPS¹
+- ogpf¹
+- pFUnit¹
+- tcp-client-server¹
+- ftl¹
+- fgsl¹
+- OpenCMISS¹
+- StringiFor¹
+- wrf_hydro_nwm_public¹
+- SciFortran¹
+- bandup¹
+- LaGriT¹
+- stdlib¹
+- clfortran¹
+- fox¹
+- HANDE-QMC¹
+- FEconv¹
+- lesgo¹
+- FortranPatterns¹
+- FV3-GFS¹
+- coretran¹
+- tsunami¹
+- fdict¹
+- CFD¹
+- coretran¹
+- ICAR¹
+- MODFLOW6¹
+- PIC Skeleton Codes¹
+- IAMR¹
+- ADflow¹
+- PoisFFT¹
+- sigma¹
+- aenet¹
+- DBCSR¹
+- GALAHAD¹
+- node.fortran¹
+- h5fortran¹
+- kdtree2¹
+- numerical-methods-fortran¹
+- TRACMASS¹
+- CompDam¹
+- Flexi¹
+- GFR¹
+- OpenSWPC¹
+- ROMS¹
+- slsqp¹
+
+Source: Conversation with Copilot, 7/25/2024
+(1) List of popular open source Fortran projects - GitHub. https://github.com/fortran-lang/stdlib/wiki/List-of-popular-open-source-Fortran-projects.
