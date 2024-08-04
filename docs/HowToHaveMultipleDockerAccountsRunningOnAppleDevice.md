@@ -5,9 +5,7 @@ While it's technically possible to create an app using C# and .NET MAUI[^10^]¹�
 
 iOS doesn't support running multiple instances of the same app⁴. Even if you could clone the app, you would likely encounter issues with app signatures, provisioning profiles, and App Store policies[^10^]. 
 
-However, there are some workarounds to use multiple Discord accounts on the same device:
-
-1. **Web Browser**: You can log into a different Discord account using a web browser on your device³.
+However, there are some workarounds to use multiple Discord accounts on the same device: **Web Browser**: You can log into a different Discord account using a web browser on your device³.
 2. **Discord Multi-Instance**: Discord has a Multi-Instance feature that allows users to run multiple instances of Discord on a single device simultaneously¹. However, this feature is currently available only for desktop versions of Discord¹.
 
 Please note that these methods do not involve cloning the Discord app, but they allow you to access multiple Discord accounts simultaneously on the same device. Always ensure that your actions comply with the terms of service of the apps and platforms you are using. 
