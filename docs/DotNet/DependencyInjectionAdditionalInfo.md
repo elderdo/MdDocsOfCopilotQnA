@@ -1,6 +1,8 @@
 ### question
 For C# .NET 8 what are the benefits of using Dependency Injection?  How would you unit test a fluent validator that has been injected into a web page?  What are the different way of doing dependency injection such as constructor injection?  Can you list and give examples of the various ways injection is done for both C# and Blazor?
 
+### answer
+
 ### Benefits of Using Dependency Injection in C# .NET 8
 
 1. **Clean Code**: Reduces clutter by managing dependencies externally¹⁵.
