@@ -59,4 +59,4 @@ Source: Conversation with Copilot, 8/31/2024
 (9) How to Migrate Your WebForms App to Blazor in 6 Steps - Telerik. https://www.telerik.com/blogs/details/how-to-migrate-web-forms-app-blazor-6-steps.
 (10) Should I put my Blazor components in the server project, or the client .... https://jonhilton.net/client-or-server-project-for-components/.
 (11) Clean Architecture - Blazor Server with .NET 7 using Entity Framework .... https://github.com/rijwanansari/CleanArchitectureDotNet7BlazorServer.
-(12) Blazor FlexGrid - Using Entity Framework Core and an SQL Server. https://developer.mescius.com/blogs/blazor-flexgrid-using-entity-framework-core.
+(12) Blazor FlexGrid - Using Entity Framework Core and an SQL Server. https://developer.mescius.com/blogs/blazor-flexgrid-using-entity-framework-core.  
