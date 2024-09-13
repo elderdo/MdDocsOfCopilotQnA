@@ -61,3 +61,25 @@ Yes, the `my-oracle-xe` image should already exist on your local machine or be a
    Sometimes, organizations provide pre-built Docker images for Oracle XE. Check Oracle's official documentation or your organization's resources for such images.
 
 If you need more detailed steps or run into any issues, feel free to ask!
+
+### question
+
+How do I determine or view the docker images I currently have?
+
+### answer
+
+To view the Docker images you currently have, you can use the following command in your terminal:
+
+```sh
+docker images
+```
+
+This command will list all the Docker images on your system, displaying columns such as `REPOSITORY`, `TAG`, `IMAGE ID`, `CREATED`, and `SIZE`.
+
+If you need more detailed information about a specific image, you can use:
+
+```sh
+docker inspect <image_id>
+```
+
+Replace `<image_id>` with the actual ID of the image you want to inspect. This will provide detailed information about the specified image.
